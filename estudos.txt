@@ -1,0 +1,41 @@
+HTML
+CSS
+XML
+XSL
+
+UML
+
+SQLite
+MySQL
+
+React
+React Native
+
+Python 		(ok)
+Common Lisp 	(por enquanto, parado)
+Java 		(em andamento)
+C 		(por enquanto, parado)
+C++ 		(por enquanto, parado)
+C# 		(arquivado)
+JavaScript	(arquivado)
+
+PHP		(arquivado/básico)
+Prolog		(arquivado/curiosidade)
+Schemme		(arquivado/básico para ensino)
+R		(arquivado/básico)
+Go		(arquivado/curiosidade)
+Rust		(arquivado/curiosidade)
+Haskell		(arquivado/curiosidade)
+
+• Algoritmos
+• Estrutura de dados
+• Versionamento de código (Git & Github)
+• Linguagem Unificada de Modelagem (UML)
+• Banco de dados Relacional (SQL)
+• Integração via API
+• Frontend Essencial (javascript, css e html)
+• Desenvolvimento API Rest (Java)
+• Desenvolvimento Web (React)
+• Desenvolvimento Mobile (React Native)
+• Introdução à gestão de projetos e metodologias ágeis
+• Inglês instrumental
